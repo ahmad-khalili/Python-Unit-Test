@@ -1,6 +1,6 @@
 # Assignment 4: White Box Testing & Unit Test
 ## 1- Flow Graph, Independent Paths List, Minimal Number of Paths to Achieve 100% Statement Coverage for Each Method
-
+- The images for the flow charts can also be found in the "Images" directory if a clearer view of the charts was needed
 ### Multiplication/Subtraction/Addition
 ![QA_Assignment4-Multiply_Subtract_Add](https://user-images.githubusercontent.com/63163965/164723141-5f793b2d-444b-4a96-b57b-994ace6502c2.jpg)
 
